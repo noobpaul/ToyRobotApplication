@@ -2,7 +2,7 @@
 Windows app for Toy Robot
 
 
-This application can only run in Windows.
+This application can only run in Windows. Double click to executable (ToyRobot.exe) to run the application.
 
 Mechanics:
 - Use the buttons in the right side of the game user interface to place a command for the robot.
